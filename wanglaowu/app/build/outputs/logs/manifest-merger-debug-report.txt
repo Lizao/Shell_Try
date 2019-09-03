@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/d84f7081794cbceb9417d50275a80457/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/f7d4e6103662307f420a4369d7a3359d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/toby/.gradle/caches/transforms-2/files-2.1/c2aec7212ea926774d5a0e1422d725e6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/a8066eca9b93aaa161302f5039b14eb8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/553910d324f5e441100a246003f4082c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/9c3310d2cb2fbef99b94e137c5cba47c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/eaf82ef9d136f48d1a4b13369dcf2729/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/1d7f45b2a9d9bf8733bc69391d8bd030/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/583797de946c31f00e7a050951f2d851/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/e34b57d47788e14fabd71762aca714b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/61ea3340646e6f84e979080e40a9dd7b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/4d926f697a92805219e79182741c185e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/6b2db388ade1752c903e925bb6087dec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/21d869852282655f8ed427497fb8840a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/e9452f3af8108e720bc24140b9598bec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/16a73473b5ec3a1e905d91abd50aa17d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/928469507adefca7a11d4b9001e26f81/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/4a72adbbc50898038b6f3884cf8aab9d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/85a3031656a43439246130f5ea93063e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/72a31b63eb90f5886ad9779d2d83cb01/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/488c4a4f045e7ad943755c51aafae808/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/325b90584a21b075eb5aacc7356f4ac5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/toby/.gradle/caches/transforms-2/files-2.1/23e9f1c402f76d14efe8880236251bc8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/628e90807a49a80b16b60d75e7432778/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/430b8a35d2d1b492c3bf7670df524c62/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/dcdbb121068303b57dff65c14d9a767a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/toby/.gradle/caches/transforms-2/files-2.1/e272b23e8cffc47a0a199089e67a5fae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/e66235947e4d746415887edad8f4959b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/toby/.gradle/caches/transforms-2/files-2.1/c1f5fa552b888b4d6668bc187c15c2fb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/toby/.gradle/caches/transforms-2/files-2.1/57e2220a7332c9047217e88e5b377cb4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/toby/.gradle/caches/transforms-2/files-2.1/e88f50efb333c21e1e8d09254a07d964/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml
+		INJECTED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml
+		ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml
+		ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/d84f7081794cbceb9417d50275a80457/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/d84f7081794cbceb9417d50275a80457/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/toby/.gradle/caches/transforms-2/files-2.1/c2aec7212ea926774d5a0e1422d725e6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/toby/.gradle/caches/transforms-2/files-2.1/c2aec7212ea926774d5a0e1422d725e6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/85a3031656a43439246130f5ea93063e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/85a3031656a43439246130f5ea93063e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/72a31b63eb90f5886ad9779d2d83cb01/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/72a31b63eb90f5886ad9779d2d83cb01/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/85a3031656a43439246130f5ea93063e/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.wanglaowu.MainActivity
+ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml
+INJECTED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/d84f7081794cbceb9417d50275a80457/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/d84f7081794cbceb9417d50275a80457/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/f7d4e6103662307f420a4369d7a3359d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/f7d4e6103662307f420a4369d7a3359d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/toby/.gradle/caches/transforms-2/files-2.1/c2aec7212ea926774d5a0e1422d725e6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/toby/.gradle/caches/transforms-2/files-2.1/c2aec7212ea926774d5a0e1422d725e6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/a8066eca9b93aaa161302f5039b14eb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/a8066eca9b93aaa161302f5039b14eb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/553910d324f5e441100a246003f4082c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/553910d324f5e441100a246003f4082c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/9c3310d2cb2fbef99b94e137c5cba47c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/9c3310d2cb2fbef99b94e137c5cba47c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/eaf82ef9d136f48d1a4b13369dcf2729/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/eaf82ef9d136f48d1a4b13369dcf2729/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/1d7f45b2a9d9bf8733bc69391d8bd030/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/1d7f45b2a9d9bf8733bc69391d8bd030/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/583797de946c31f00e7a050951f2d851/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/583797de946c31f00e7a050951f2d851/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/e34b57d47788e14fabd71762aca714b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/e34b57d47788e14fabd71762aca714b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/61ea3340646e6f84e979080e40a9dd7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/61ea3340646e6f84e979080e40a9dd7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/4d926f697a92805219e79182741c185e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/4d926f697a92805219e79182741c185e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/6b2db388ade1752c903e925bb6087dec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/6b2db388ade1752c903e925bb6087dec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/21d869852282655f8ed427497fb8840a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/21d869852282655f8ed427497fb8840a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/e9452f3af8108e720bc24140b9598bec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/e9452f3af8108e720bc24140b9598bec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/16a73473b5ec3a1e905d91abd50aa17d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/16a73473b5ec3a1e905d91abd50aa17d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/928469507adefca7a11d4b9001e26f81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/928469507adefca7a11d4b9001e26f81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/4a72adbbc50898038b6f3884cf8aab9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/4a72adbbc50898038b6f3884cf8aab9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/85a3031656a43439246130f5ea93063e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/85a3031656a43439246130f5ea93063e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/72a31b63eb90f5886ad9779d2d83cb01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/72a31b63eb90f5886ad9779d2d83cb01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/488c4a4f045e7ad943755c51aafae808/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/488c4a4f045e7ad943755c51aafae808/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/325b90584a21b075eb5aacc7356f4ac5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/325b90584a21b075eb5aacc7356f4ac5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/toby/.gradle/caches/transforms-2/files-2.1/23e9f1c402f76d14efe8880236251bc8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/toby/.gradle/caches/transforms-2/files-2.1/23e9f1c402f76d14efe8880236251bc8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/628e90807a49a80b16b60d75e7432778/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/628e90807a49a80b16b60d75e7432778/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/430b8a35d2d1b492c3bf7670df524c62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/430b8a35d2d1b492c3bf7670df524c62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/dcdbb121068303b57dff65c14d9a767a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/dcdbb121068303b57dff65c14d9a767a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/toby/.gradle/caches/transforms-2/files-2.1/e272b23e8cffc47a0a199089e67a5fae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/toby/.gradle/caches/transforms-2/files-2.1/e272b23e8cffc47a0a199089e67a5fae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/e66235947e4d746415887edad8f4959b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/toby/.gradle/caches/transforms-2/files-2.1/e66235947e4d746415887edad8f4959b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/toby/.gradle/caches/transforms-2/files-2.1/c1f5fa552b888b4d6668bc187c15c2fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/toby/.gradle/caches/transforms-2/files-2.1/c1f5fa552b888b4d6668bc187c15c2fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/toby/.gradle/caches/transforms-2/files-2.1/57e2220a7332c9047217e88e5b377cb4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/toby/.gradle/caches/transforms-2/files-2.1/57e2220a7332c9047217e88e5b377cb4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/toby/.gradle/caches/transforms-2/files-2.1/e88f50efb333c21e1e8d09254a07d964/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/toby/.gradle/caches/transforms-2/files-2.1/e88f50efb333c21e1e8d09254a07d964/AndroidManifest.xml:20:5-44
+INJECTED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml
+INJECTED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml
+		ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml
+		INJECTED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml
+		ADDED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml
+		INJECTED from /home/toby/Study/SG/wanglaowu/app/src/main/AndroidManifest.xml
